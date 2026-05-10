@@ -1,0 +1,142 @@
+Backend running on port 5000
+MongoDB connected
+
+==================================================
+📢  [MOCK WHATSAPP NOTIFICATION SENT]
+👤  TO: Final Audit (9030347111)
+💬  MESSAGE: 🚚 Delivered: Hi Final Audit, your laundry has been delivered. Thank you!
+==================================================
+
+
+==================================================
+📢  [MOCK WHATSAPP NOTIFICATION SENT]
+👤  TO: Final Audit (9030347111)
+💬  MESSAGE: 🚚 Delivered: Hi Final Audit, your laundry has been delivered. Thank you!
+==================================================
+
+
+==================================================
+📢  [MOCK WHATSAPP NOTIFICATION SENT]
+👤  TO: Final Audit (9030347111)
+💬  MESSAGE: ✅ Order Received! Hi Final Audit, we've received your booking. Pickup is being scheduled.
+==================================================
+
+
+==================================================
+📢  [MOCK WHATSAPP NOTIFICATION SENT]
+👤  TO: Final Audit (9030347111)
+💬  MESSAGE: ✅ Order Received! Hi Final Audit, we've received your booking. Pickup is being scheduled.
+==================================================
+
+
+==================================================
+📢  [MOCK WHATSAPP NOTIFICATION SENT]
+👤  TO: Final Audit (9030347111)
+💬  MESSAGE: 👕 Ready: Hi Final Audit, your laundry is clean and ready! Total amount: ₹50.
+==================================================
+
+
+==================================================
+📢  [MOCK WHATSAPP NOTIFICATION SENT]
+👤  TO: Final Audit (9030347111)
+💬  MESSAGE: 👕 Ready: Hi Final Audit, your laundry is clean and ready! Total amount: ₹50.
+==================================================
+
+
+==================================================
+📢  [MOCK WHATSAPP NOTIFICATION SENT]
+👤  TO: Final Audit (9030347111)
+💬  MESSAGE: 👕 Ready: Hi Final Audit, your laundry is clean and ready! Total amount: ₹50.
+==================================================
+
+
+==================================================
+📢  [MOCK WHATSAPP NOTIFICATION SENT]
+👤  TO: Final Audit (9030347111)
+💬  MESSAGE: 👕 Ready: Hi Final Audit, your laundry is clean and ready! Total amount: ₹50.
+==================================================
+
+
+==================================================
+📢  [MOCK WHATSAPP NOTIFICATION SENT]
+👤  TO: Final Audit (9030347111)
+💬  MESSAGE: 👕 Ready: Hi Final Audit, your laundry is clean and ready! Total amount: ₹50.
+==================================================
+
+
+==================================================
+📢  [MOCK WHATSAPP NOTIFICATION SENT]
+👤  TO: Final Audit (9030347111)
+💬  MESSAGE: 👕 Ready: Hi Final Audit, your laundry is clean and ready! Total amount: ₹50.
+==================================================
+
+
+==================================================
+📢  [MOCK WHATSAPP NOTIFICATION SENT]
+👤  TO: Final Audit (9030347111)
+💬  MESSAGE: 👕 Ready: Hi Final Audit, your laundry is clean and ready! Total amount: ₹50.
+==================================================
+
+
+==================================================
+📢  [MOCK WHATSAPP NOTIFICATION SENT]
+👤  TO: Final Audit (9030347111)
+💬  MESSAGE: 👕 Ready: Hi Final Audit, your laundry is clean and ready! Total amount: ₹50.
+==================================================
+
+
+==================================================
+📢  [MOCK WHATSAPP NOTIFICATION SENT]
+👤  TO: Final Audit (9030347111)
+💬  MESSAGE: 👕 Ready: Hi Final Audit, your laundry is clean and ready! Total amount: ₹50.
+==================================================
+
+
+==================================================
+📢  [MOCK WHATSAPP NOTIFICATION SENT]
+👤  TO: Final Audit (9030347111)
+💬  MESSAGE: 👕 Ready: Hi Final Audit, your laundry is clean and ready! Total amount: ₹50.
+==================================================
+
+
+==================================================
+📢  [MOCK WHATSAPP NOTIFICATION SENT]
+👤  TO: Final Audit (9030347111)
+💬  MESSAGE: 👕 Ready: Hi Final Audit, your laundry is clean and ready! Total amount: ₹50.
+==================================================
+
+
+==================================================
+📢  [MOCK WHATSAPP NOTIFICATION SENT]
+👤  TO: Final Audit (9030347111)
+💬  MESSAGE: 👕 Ready: Hi Final Audit, your laundry is clean and ready! Total amount: ₹50.
+==================================================
+
+
+==================================================
+📢  [MOCK WHATSAPP NOTIFICATION SENT]
+👤  TO: Final Audit (9030347111)
+💬  MESSAGE: 👕 Ready: Hi Final Audit, your laundry is clean and ready! Total amount: ₹50.
+==================================================
+
+
+==================================================
+📢  [MOCK WHATSAPP NOTIFICATION SENT]
+👤  TO: Final Audit (9030347111)
+💬  MESSAGE: 👕 Ready: Hi Final Audit, your laundry is clean and ready! Total amount: ₹50.
+==================================================
+
+
+==================================================
+📢  [MOCK WHATSAPP NOTIFICATION SENT]
+👤  TO: Final Audit (9030347111)
+💬  MESSAGE: 👕 Ready: Hi Final Audit, your laundry is clean and ready! Total amount: ₹50.
+==================================================
+
+
+==================================================
+📢  [MOCK WHATSAPP NOTIFICATION SENT]
+👤  TO: Final Audit (9030347111)
+💬  MESSAGE: 🧼 Cleaning: Great news Final Audit! Your clothes are currently being cleaned with care.
+==================================================
+
